@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "ts-loader": "^8.0.13",
+    "typescript": "^4.1.3",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
